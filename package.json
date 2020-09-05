@@ -1,0 +1,31 @@
+{
+  "name": "test-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkmiro95/test-assignment.git"
+  },
+  "author": "Jakub Mirocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkmiro95/test-assignment/issues"
+  },
+  "homepage": "https://github.com/jkmiro95/test-assignment#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "config": "^3.3.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.5",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/register": "^7.11.5",
+    "babel-plugin-add-module-exports": "^1.0.2",
+    "chromedriver": "^85.0.0",
+    "eslint": "^7.8.1"
+  }
+}

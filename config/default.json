@@ -1,0 +1,10 @@
+{
+  "user": {
+    "email": "testing@testing.pl",
+    "pass": "Test1234"
+  },
+  "auth": {
+    "login": "secret",
+    "pass": "secret"
+  }
+}
