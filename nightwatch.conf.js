@@ -1,7 +1,7 @@
 require('@babel/register');
 
 module.exports = {
-  end_session_on_fail: false,
+  end_session_on_fail: true,
   src_folders: ['tests'],
   page_objects_path: ['pageObjects'],
   webdriver: {

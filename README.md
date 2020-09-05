@@ -1,5 +1,5 @@
 # Installation
-* The tests were developed with node v.13.10.1 and npm v.6.13.7
+* The tests were developed with node v.13.10.1 npm v.6.13.7 and Google Chrome 85
 * In order to run the project you have to go into the project catalog and type `npm install` and `npm install nightwatch -g`
 
 # Conifg
@@ -11,3 +11,4 @@
 # Additional notes
 * Test cases can be found in the repository and under [this](https://docs.google.com/spreadsheets/d/16BCGuApFsz4idi3WicsySaO5xNJuODdPsAB1Jq1W0sk/edit?usp=sharing) link
 * All of the test cases could be automated, I didn't want to spend more time than I should developing them, as other test cases would be quite similar
+* I am also attaching a movie that shows how the test looks like
